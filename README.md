@@ -43,15 +43,15 @@
     <title>WhatsApp Logo</title>
     <style>
         .whatsapp-logo {
-            width: 30px;
-            height: 30px;
+            width: 20px;
+            height: 20px;
             display: flex;
             align-items: center;
             justify-content: center;
             background-color: #25D366;
             border-radius: 50%;
             box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
-            padding: 3px;
+            padding: 2px;
         }
         .whatsapp-logo img {
             width: 80%;
@@ -65,4 +65,5 @@
     </div>
 </body>
 </html>
+
 
